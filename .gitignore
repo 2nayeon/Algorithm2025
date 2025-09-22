@@ -1,0 +1,23 @@
+# 빌드 출력
+*.obj
+*.exe
+*.pdb
+*.ipch
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+
+# 사용자 설정
+*.user
+*.suo
+*.VC.db
+
+# Visual Studio 폴더
+.vs/
+Debug/
+Release/
+
+# 백업 파일
+*~
+*.bak
