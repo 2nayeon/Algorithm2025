@@ -15,28 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="agent_array1.c">
+    <ClCompile Include="ex01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="agent_array2.c">
+    <ClCompile Include="ex02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="agent_list.c">
+    <ClCompile Include="ex03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="fibo_recursive.c">
+    <ClCompile Include="ascending_binary_search.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="gcd_recursive.c">
+    <ClCompile Include="descending_binary_search.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="gcd_recursive2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="gcd_recursive3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="hanoi_recursive.c">
+    <ClCompile Include="binary_search_stock.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

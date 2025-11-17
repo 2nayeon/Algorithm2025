@@ -15,28 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="agent_array1.c">
+    <ClCompile Include="random_sum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="agent_array2.c">
+    <ClCompile Include="random_float_sum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="agent_list.c">
+    <ClCompile Include="int_calculator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="fibo_recursive.c">
+    <ClCompile Include="stack_postfix.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="gcd_recursive.c">
+    <ClCompile Include="palindrome_check.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="gcd_recursive2.c">
+    <ClCompile Include="stack_palindrome.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="gcd_recursive3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="hanoi_recursive.c">
+    <ClCompile Include="autonomous_task.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

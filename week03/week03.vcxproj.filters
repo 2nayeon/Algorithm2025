@@ -15,28 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="agent_array1.c">
+    <ClCompile Include="greedy_coin_change.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="agent_array2.c">
+    <ClCompile Include="closest_divisible_number.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="agent_list.c">
+    <ClCompile Include="closest_divisible_number2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="fibo_recursive.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="gcd_recursive.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="gcd_recursive2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="gcd_recursive3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="hanoi_recursive.c">
+    <ClCompile Include="kts_smallest_by_delete.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
